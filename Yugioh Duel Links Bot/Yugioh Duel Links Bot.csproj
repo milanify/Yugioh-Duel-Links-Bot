@@ -176,7 +176,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Favicon.ico" />
-    <Content Include="Release\Yugioh Duel Links Bot.exe" />
+    <Content Include="v1.0 Release\Yugioh Duel Links Bot.exe" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
