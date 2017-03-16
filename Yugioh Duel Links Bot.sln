@@ -5,6 +5,11 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yugioh Duel Links Bot", "Yugioh Duel Links Bot\Yugioh Duel Links Bot.csproj", "{03F760C0-81F6-4C31-B229-AF8E14271790}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Release", "Release", "{32A65ACA-F438-444F-A6E4-691EDC264A22}"
+	ProjectSection(SolutionItems) = preProject
+		Release\Yugioh Duel Links Bot.exe = Release\Yugioh Duel Links Bot.exe
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
