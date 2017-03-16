@@ -1,7 +1,7 @@
 # Yugioh-Duel-Links-Bot
 
 v1.0 Initial Release
-[Download bot](Yugioh Duel Links Bot/Release/Yugioh Duel Links Bot.exe)
+[Download bot](Yugioh-Duel-Links-Bot/Yugioh Duel Links Bot/Release/Yugioh Duel Links Bot.exe)
 
 Instructions:
 1) Download Nox: https://www.bignox.com/
