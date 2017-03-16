@@ -2,7 +2,7 @@
 
 v1.0 Initial Release
 
-[Download Bot](https://github.com/milan102/Yugioh-Duel-Links-Bot/raw/master/Yugioh%20Duel%20Links%20Bot/Release/Yugioh%20Duel%20Links%20Bot.exe)
+[Download Bot](https://github.com/milan102/Yugioh-Duel-Links-Bot/raw/master/Yugioh%20Duel%20Links%20Bot/v1.0%20Release/Yugioh%20Duel%20Links%20Bot.exe)
 
 Instructions:
 1) Download Nox: https://www.bignox.com/
