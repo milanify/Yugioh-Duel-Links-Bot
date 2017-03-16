@@ -1,0 +1,34 @@
+Bitmap tempScreenshot;
+            bool autoDuelGrey;
+            Point location;
+
+            tempScreenshot = BitmapGraphics.Screenshot();
+            autoDuelGrey = BitmapGraphics.FindBitMap(Properties.Resources.bmpAutoDuelButtonGrey, tempScreenshot, out location);
+
+            if (autoDuelGrey)
+            {
+                Console.WriteLine("Detected Vagabond/Legendary Duelist. Ending duel ASAP.");
+
+                Cursor.Position = location;
+                location = new Point(Cursor.Position.X + 90, Cursor.Position.Y + 510);
+                Cursor.Position = location;
+                BitmapGraphics.disposeGraphic(tempScreenshot);
+                while(Dueling.isDuelOver == false)
+                {
+                    Thread.Sleep(1000);
+                    MouseActions.MouseClick();
+                }
+            }
+            else
+            {
+                BitmapGraphics.disposeGraphic(tempScreenshot);
+                Thread.Sleep(3000);
+                tempScreenshot = BitmapGraphics.Screenshot();
+                autoDuelGrey = BitmapGraphics.FindBitMap(Properties.Resources.bmpGreyAutoDuelButton2, tempScreenshot, out location);
+                Console.WriteLine("Detected Vagabond/Legendary Duelist. Ending duel ASAP.");
+
+                location = new Point(Cursor.Position.X + 20, Cursor.Position.Y + 200);
+                Cursor.Position = location;
+
+                BitmapGraphics.disposeGraphic(tempScreenshot);
+            }    
