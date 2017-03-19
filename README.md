@@ -11,6 +11,8 @@ Instructions:
 4) Start the game and go to the Gate location
 5) Start the bot, set the number of clicks per panel (default = 5), and click the "Start" button
 
+![alt tag]https://github.com/milan102/Yugioh-Duel-Links-Bot/blob/master/sample1.png
+
 Notes:
 
 *When you click "Start", the "Quit" button will turn red. This means user input is disabled and **you won't be able to move the cursor or use your keyboard.** However, when the Auto-Duel button is pressed in game, the "Quit" button will turn green, meaning you are free to use the cursor.*
