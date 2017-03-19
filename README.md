@@ -11,7 +11,7 @@ Instructions:
 4) Start the game and go to the Gate location
 5) Start the bot, set the number of clicks per panel (default = 5), and click the "Start" button
 
-![alt tag]https://github.com/milan102/Yugioh-Duel-Links-Bot/blob/master/sample1.png
+![alt tag](https://github.com/milan102/Yugioh-Duel-Links-Bot/blob/master/sample1.png)
 
 Notes:
 
