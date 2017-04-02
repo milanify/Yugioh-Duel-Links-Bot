@@ -4,7 +4,7 @@ v1.0 Initial Release:
 
 [Download Bot](https://github.com/milan102/Yugioh-Duel-Links-Bot/raw/master/Yugioh%20Duel%20Links%20Bot/v1.0%20Release/Yugioh%20Duel%20Links%20Bot.exe)
 
-Instructions:
+## Instructions:
 1) Download Nox: https://www.bignox.com/
 2) Set your resolution in the Nox settings to 720x1280
 3) Download the game in Nox through the Google Play Store
@@ -13,7 +13,7 @@ Instructions:
 
 ![alt tag](https://github.com/milan102/Yugioh-Duel-Links-Bot/blob/master/sample1.png)
 
-Notes:
+## Notes:
 
 *When you click "Start", the "Quit" button will turn red. This means user input is disabled and **you won't be able to move the cursor or use your keyboard.** However, when the Auto-Duel button is pressed in game, the "Quit" button will turn green, meaning you are free to use the cursor.*
 
