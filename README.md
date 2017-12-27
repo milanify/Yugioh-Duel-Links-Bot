@@ -1,6 +1,6 @@
 # Yugioh-Duel-Links-Bot
 
-#This program no longer works due to the game updating and the developer moving on to different projects. This repo is left up for anyone who wants to learn about the bot.
+##This program no longer works due to the game updating and the developer moving on to different projects. This repo is left up for anyone who wants to learn about the bot.
 
 v1.0 Initial Release:
 
