@@ -1,5 +1,7 @@
 # Yugioh-Duel-Links-Bot
 
+#This program no longer works due to the game updating and the developer moving on to different projects. This repo is left up for anyone who wants to learn about the bot.
+
 v1.0 Initial Release:
 
 [Download Bot](https://github.com/milan102/Yugioh-Duel-Links-Bot/raw/master/Yugioh%20Duel%20Links%20Bot/v1.0%20Release/Yugioh%20Duel%20Links%20Bot.exe)
