@@ -24,6 +24,3 @@ v1.0 Initial Release:
 *Do not cover the Nox window with any other windows, or it will get in the way of the bot. Keep it on top.*
 
 *If you want to stop the bot manually while input is disabled, press Ctrl+Alt+Del to regain access to your mouse and keyboard. You can then proceed to quit the program.*
-
-## Donations
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=HL3P4UC2JKEAN&lc=US&item_name=Milan%27s%20Software&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
